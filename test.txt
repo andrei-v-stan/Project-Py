@@ -1,0 +1,7 @@
+Acesta este un document exemplu pentru proiectul "Text analyzer" si contine diverse numere de telefon si numere CNP. Uite inca o propozitie!
+Un numar de telefon fiind 0712345678, dar hai sa il repetam 0712345678, dar uite alt numar de telefon 0787654321.
+Dar hai sa mai punem cateva numere de telefon.
+0711222333, 0712345678, 07123456780712345678 1230707123 1230712345.
+Hai sa incercam si cu numere CNP 5000728410011, 1460913400088, 2690627131268, 1460913400088, 1000000000001, 1001111111111, 1110011111111.
+Hmmm dar inca cateva exemple 1111100111111, 1111111001111, 50006274100745000627410074, 07123, 50007284100110787654321, 07876543210787654321?
+Si inca cateva combinatii 500072841001107876543215000728410011, 5000728410011. Uite si niste litere mari A X Z.
